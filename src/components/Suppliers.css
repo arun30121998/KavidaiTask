@@ -1,0 +1,44 @@
+.suppliers{
+  display: flex;
+  justify-content: space-between;
+  background-color: #e4e8ed;
+  align-items: center;
+  padding-left: 10px;
+}
+.suppliers h2{
+  font-size: 18px;
+}
+.supplier-btn button{
+  background-color: rgb(12, 13, 13);
+  border-radius: 10px;
+  justify-content: space-between;
+  color: #ffff;
+  padding: 0px 10px;
+  margin-left: 10px;
+}
+.css-4fh5ap:hover {
+  background: #0a3678 !important;
+}
+.css-4fh5ap{
+  font-size: 12px !important;
+  padding: 5px 10px !important;
+  margin: 4px !important;
+  height: 30px !important;
+  border-radius: 5px !important;
+}
+.supplier-datas p{
+    border: 1px solid #000;
+    border-style: dotted;
+    height:55vh;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: scroll;
+}
+.supplier-data-import h2{
+  color: #3b3e41;
+font-size: 22px;
+font-weight: bold;
+margin-bottom: 20px;
+}
